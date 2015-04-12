@@ -166,6 +166,23 @@ h3 {
   }
 }
 /* --------------------- */
+/* LIstes
+/* --------------------- */
+
+.ul-fa li {
+  list-style: none;
+}
+
+.ul-fa li:before {
+  font-family: 'FontAwesome';
+  content: '\f0ac';
+  margin:0 10px 0 -15px;
+  float: left;
+  color: #black;
+  padding: 5px;
+}
+
+/* --------------------- */
 /* BUTTONS
 /* --------------------- */
 .btn {
@@ -270,7 +287,7 @@ a:hover, a:focus {
   color: #E74C3C;
 }
 .section-heading p {
-  font-size: 1.5em;
+  font-size: 2em;
   color: #c2c2c2;
 }
 .section-heading hr {
@@ -284,7 +301,7 @@ a:hover, a:focus {
 }
 
 .section-content h3 {
-  color: #c2c2c2;
+  color: #82767B;
 }
 
 /* --------------------- */
