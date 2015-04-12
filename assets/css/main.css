@@ -209,6 +209,7 @@ h3 {
 
 .btn-sm {
   border-width: 3px;
+  background-color: transparent;
 }
 
 .btn-xs {
@@ -5193,6 +5194,7 @@ img.mfp-img {
 }
 
 /* ------------------ HERO UNIT ------------------ */
+
 .hero-unit {
   position: relative;
   overflow: hidden;
