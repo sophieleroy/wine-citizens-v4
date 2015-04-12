@@ -24,11 +24,15 @@ body.fullscreen-image-background {
   }
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h4, h5, h6 {
   font-family: "Arvo", sans-serif;
   font-weight: 300;
   color: #E74C3C;
   margin-top: 0;
+}
+
+h3 {
+  color: #262022;
 }
 
 /* ------------------ GENERAL STYLES ------------------ */
@@ -5378,7 +5382,7 @@ img.mfp-img {
   position: relative;
 }
 .about .img-left {
-  position: absolute;
+  position: relative;
   bottom: -60px;
   left: -66px;
 }
