@@ -305,6 +305,12 @@ a:hover, a:focus {
   color: #82767B;
 }
 
+.section-content img {
+  max-width: 100%;
+  padding: 15px;
+
+}
+
 /* --------------------- */
 /* TOOLTIP
 /* --------------------- */
